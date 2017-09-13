@@ -1,14 +1,14 @@
 *.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
+dist/wp-config.php
+dist/wp-content/advanced-cache.php
+dist/wp-content/backup-db/
+dist/wp-content/backups/
+dist/wp-content/blogs.dir/
+dist/wp-content/cache/
+dist/wp-content/upgrade/
+dist/wp-content/uploads/
+dist/wp-content/wp-cache-config.php
+dist/wp-content/plugins/hello.php
 
 /.htaccess
 /license.txt
