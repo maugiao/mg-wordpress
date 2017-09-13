@@ -10,8 +10,8 @@ dist/wp-content/uploads/
 dist/wp-content/wp-cache-config.php
 dist/wp-content/plugins/hello.php
 
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
+dist/.htaccess
+dist/license.txt
+dist/readme.html
+dist/sitemap.xml
+dist/sitemap.xml.gz
