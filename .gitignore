@@ -1,5 +1,6 @@
 *.log
 dist/wp-config.php
+dist/wp-config-sample.php
 dist/wp-content/advanced-cache.php
 dist/wp-content/backup-db/
 dist/wp-content/backups/
