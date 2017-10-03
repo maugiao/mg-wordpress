@@ -11,7 +11,7 @@ dist/wp-content/uploads/
 dist/wp-content/wp-cache-config.php
 dist/wp-content/plugins/hello.php
 
-#dist/.htaccess
+dist/.htaccess
 dist/license.txt
 dist/readme.html
 dist/sitemap.xml
